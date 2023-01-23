@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits Tracker é um rastreador de hábitos.
 
-Você pode ter acesso ao projeto online [clicando aqui](https://toddynan.github.io/MyLinks).
+Você pode ter acesso ao projeto online [clicando aqui](https://toddynan.github.io/nlw-setup).
 
 ## 🔖 Layout
 
